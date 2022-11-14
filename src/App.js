@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import ChatBot from 'react-simple-chatbot';
 import './App.css';
-//steps are written here
 const steps = [
   {
     id: '0',
